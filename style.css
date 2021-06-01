@@ -1,0 +1,15 @@
+/* body {
+  min-height: 3500px;
+} */
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
